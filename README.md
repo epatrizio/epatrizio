@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**epatrizio/epatrizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## tl;dr
 
-Here are some ideas to get you started:
+- 💻 R&D software engineer
+- 💽 Computer Scientist, work in progress ;)
+- ➿ Programming languages design enthusiast
+- 🌍 Need for open source
+- 🌻 Convinced by the minimalist philosophy
+- 🤔 Discovering low tech computing approach
+- 🐫 OCaml
+- 🕸 WebAssembly (wasm)
+- 🐘 PHP
+- 🌔 Lua
+- 📖 Life long learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## current status
+
+### OCamlPro company
+
+I'm contributing to the **OCamlPro** `owi` 🐌 project ([Ocaml Webassembly Interpreter](https://github.com/OCamlPro/owi/)),
+part of a research project on OCaml to Wasm compilation.
+
+### Side project
+
+`ola` ([Ocaml LuA experiments](https://github.com/epatrizio/ola)) is a personal experimental project.
+First step, `ola` is a Lua language interpreter written in OCaml.\
+The objective is to have a deeper understanding of dynamic languages.
