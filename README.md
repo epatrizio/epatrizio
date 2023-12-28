@@ -18,11 +18,12 @@
 
 ### OCamlPro company
 
-I'm contributing to the **OCamlPro** `owi` 🐌 project ([Ocaml Webassembly Interpreter](https://github.com/OCamlPro/owi/)),
+I contribute to the **OCamlPro** `owi` 🐌 project
+([OCaml WebAssembly toolchain : concrete and symbolic interpretation](https://github.com/OCamlPro/owi/)),
 part of a research project on OCaml to Wasm compilation.
 
 ### Side project
 
-`ola` ([Ocaml LuA experiments](https://github.com/epatrizio/ola)) is a personal experimental project.
+`ola` ([OCaml Lua experiments](https://github.com/epatrizio/ola)) is a personal experimental project.
 First step, `ola` is a Lua language interpreter written in OCaml.\
-The objective is to have a deeper understanding of dynamic languages.
+My objective is to obtain a deeper understanding of dynamic languages design.
