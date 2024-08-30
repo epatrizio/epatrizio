@@ -16,14 +16,22 @@
 
 ## current status
 
-### OCamlPro company
+2024, sept: I'm part of the [Sismic](https://github.com/sismicfr) team, a software publisher.\
+My role is to help the team improve the quality of its source code production
+(agile mindset, software design, testing, etc.).
 
-I contribute to the **OCamlPro** `owi` 🐌 project
-([OCaml WebAssembly toolchain : concrete and symbolic interpretation](https://github.com/OCamlPro/owi/)),
-part of a research project on OCaml to Wasm compilation.
+## Side projects
 
-### Side project
+### ola
 
 `ola` ([OCaml Lua experiments](https://github.com/epatrizio/ola)) is a personal experimental project.
-First step, `ola` is a Lua language interpreter written in OCaml.\
-My objective is to obtain a deeper understanding of dynamic languages design.
+First of all, `ola` is a Lua language interpreter written in OCaml.
+Then, `ola` is a space where I can really discover Lua.\
+At the end, my objective is to obtain a deeper understanding of dynamic languages,
+build on a minimal (but powerful) design!
+
+### owi
+
+I contributed (I remain close) to the **OCamlPro** `owi` 🐌 project
+([OCaml WebAssembly toolchain : concrete and symbolic interpretation](https://github.com/OCamlPro/owi/)),
+part of a research project on OCaml to Wasm compilation.
