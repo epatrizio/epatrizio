@@ -12,6 +12,7 @@
 - 🕸 WebAssembly (wasm)
 - 🐘 PHP
 - 🌔 Lua
+- 🦀 Rust (beginner;)
 - 📖 Life long learner
 
 ## current status
@@ -22,10 +23,16 @@ My role is to help the team improve the quality of its source code production
 
 ## Side projects
 
+### miniml2wasm
+
+`miniml2wasm` ([MiniML to WebAssembly compiler](https://github.com/epatrizio/miniml2wasm)) is a personal pedagogical project.\
+This compiler, written in OCaml, has several goals : First of all, it's always difficult to write a compiler, so, let's try!\
+Next, I'd like to better understand ML languages (e.g. strong static typing, inference) and manipulate Wasm bytecode.
+
 ### ola
 
-`ola` ([OCaml Lua experiments](https://github.com/epatrizio/ola)) is a personal experimental project.
-First of all, `ola` is a Lua language interpreter written in OCaml.
+`ola` ([Ocaml LuA interpreter](https://github.com/epatrizio/ola)) is a personal pedagogical project.\
+First of all, `ola` is a Lua language interpreter written in OCaml.\
 Then, `ola` is a space where I can really discover Lua.\
 At the end, my objective is to obtain a deeper understanding of dynamic languages,
 build on a minimal (but powerful) design!
